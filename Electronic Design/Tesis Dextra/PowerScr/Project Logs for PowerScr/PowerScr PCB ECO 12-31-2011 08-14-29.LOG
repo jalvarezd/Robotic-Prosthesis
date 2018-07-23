@@ -1,0 +1,92 @@
+Added Component: Designator=C30(RAD-0.2)
+Added Component: Designator=C31(C100UFB)
+Added Component: Designator=C32(3528)
+Added Component: Designator=C33(7343)
+Added Component: Designator=C34(7343)
+Added Component: Designator=C35(3528)
+Added Component: Designator=C36(7343)
+Added Component: Designator=C37(7343)
+Added Component: Designator=D1(DO-41)
+Added Component: Designator=D2(DO-41)
+Added Component: Designator=D3(DO-41)
+Added Component: Designator=D4(DO-41)
+Added Component: Designator=P5(AZUL5-6)
+Added Component: Designator=P6(AZUL5-7)
+Added Component: Designator=R73(RESC6332M)
+Added Component: Designator=R74(3361P)
+Added Component: Designator=R75(RESC6332M)
+Added Component: Designator=R76(3361P)
+Added Component: Designator=U12(SOP8 - duplicate)
+Added Component: Designator=U13(936-03)
+Added Component: Designator=U14(936-03)
+Added Pin To Net: NetName=BATCIR+ Pin=C31-1
+Added Pin To Net: NetName=BATCIR+ Pin=P5-2
+Added Pin To Net: NetName=BATCIR+ Pin=P6-3
+Added Pin To Net: NetName=BATCIR+ Pin=U12-3
+Added Net: Name=BATCIR+
+Added Pin To Net: NetName=BATCIR- Pin=C30-1
+Added Pin To Net: NetName=BATCIR- Pin=C31-2
+Added Pin To Net: NetName=BATCIR- Pin=P5-1
+Added Pin To Net: NetName=BATCIR- Pin=P6-2
+Added Pin To Net: NetName=BATCIR- Pin=U12-2
+Added Net: Name=BATCIR-
+Added Pin To Net: NetName=BATMOT+ Pin=C32-1
+Added Pin To Net: NetName=BATMOT+ Pin=D1-2
+Added Pin To Net: NetName=BATMOT+ Pin=P5-4
+Added Pin To Net: NetName=BATMOT+ Pin=U13-3
+Added Net: Name=BATMOT+
+Added Pin To Net: NetName=BATMOT- Pin=C32-2
+Added Pin To Net: NetName=BATMOT- Pin=C33-2
+Added Pin To Net: NetName=BATMOT- Pin=C34-2
+Added Pin To Net: NetName=BATMOT- Pin=P5-3
+Added Pin To Net: NetName=BATMOT- Pin=P6-4
+Added Pin To Net: NetName=BATMOT- Pin=R74-1
+Added Pin To Net: NetName=BATMOT- Pin=R74-2
+Added Net: Name=BATMOT-
+Added Pin To Net: NetName=BATSTP+ Pin=C35-1
+Added Pin To Net: NetName=BATSTP+ Pin=D3-2
+Added Pin To Net: NetName=BATSTP+ Pin=P5-6
+Added Pin To Net: NetName=BATSTP+ Pin=U14-3
+Added Net: Name=BATSTP+
+Added Pin To Net: NetName=BATSTP- Pin=C35-2
+Added Pin To Net: NetName=BATSTP- Pin=C36-2
+Added Pin To Net: NetName=BATSTP- Pin=C37-2
+Added Pin To Net: NetName=BATSTP- Pin=P5-5
+Added Pin To Net: NetName=BATSTP- Pin=P6-6
+Added Pin To Net: NetName=BATSTP- Pin=R76-1
+Added Pin To Net: NetName=BATSTP- Pin=R76-2
+Added Net: Name=BATSTP-
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=U12-8
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC33_1 Pin=C33-1
+Added Pin To Net: NetName=NetC33_1 Pin=D2-1
+Added Pin To Net: NetName=NetC33_1 Pin=R73-1
+Added Pin To Net: NetName=NetC33_1 Pin=R74-3
+Added Pin To Net: NetName=NetC33_1 Pin=U13-1
+Added Net: Name=NetC33_1
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=NetC36_1 Pin=D4-1
+Added Pin To Net: NetName=NetC36_1 Pin=R75-1
+Added Pin To Net: NetName=NetC36_1 Pin=R76-3
+Added Pin To Net: NetName=NetC36_1 Pin=U14-1
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=VGND Pin=P6-1
+Added Pin To Net: NetName=VGND Pin=U12-1
+Added Net: Name=VGND
+Added Pin To Net: NetName=VM+ Pin=C34-1
+Added Pin To Net: NetName=VM+ Pin=D1-1
+Added Pin To Net: NetName=VM+ Pin=D2-2
+Added Pin To Net: NetName=VM+ Pin=P6-5
+Added Pin To Net: NetName=VM+ Pin=R73-2
+Added Pin To Net: NetName=VM+ Pin=U13-4
+Added Net: Name=VM+
+Added Pin To Net: NetName=VSTP+ Pin=C37-1
+Added Pin To Net: NetName=VSTP+ Pin=D3-1
+Added Pin To Net: NetName=VSTP+ Pin=D4-2
+Added Pin To Net: NetName=VSTP+ Pin=P6-7
+Added Pin To Net: NetName=VSTP+ Pin=R75-2
+Added Pin To Net: NetName=VSTP+ Pin=U14-4
+Added Net: Name=VSTP+
+Added Class: Name=PowerScr
+Added Room: Name=PowerScr

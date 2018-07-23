@@ -1,0 +1,71 @@
+Field=Comment~String~Comment~106|Field=Description~String~Description~200|Field=Designator~String~Designator~282|Field=Value~String~Value~64|Field=Footprint~String~Footprint~40|Field=LibRef~String~LibRef~39|Field=Quantity~Integer~Quantity~20|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~TesisDextra.PrjPCB|ReportField=ProjectFullPath~C:\Users\Public\Documents\Altium\Electronic Design\Tesis Dextra\TesisDextra.PrjPCB|ReportField=Title~Bill of Materials For Project [TesisDextra.PrjPCB] (PCB Document : EmgAcq.PcbDoc)|ReportField=TotalQuantity~228|ReportField=ReportTime~23:18:33|ReportField=ReportDate~12/28/2011|ReportField=ReportDateTime~12/28/2011 23:18:33|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~12/28/2011|ReportField=CurrentTime~23:12:03|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Public\Documents\Altium\Electronic Design\Tesis Dextra\EmgAcq.SchDoc|ReportField=DocumentName~EmgAcq.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~Julio Alvarez D|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~12/21/2011|ReportField=Organization~|ReportField=ProjectName~TesisDextra.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~EMG ACQ-4|ReportField=DataSourceFileName~TesisDextra.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Public\Documents\Altium\Electronic Design\Tesis Dextra\TesisDextra.PrjPCB|ReportField=PCBDataSourceFileName~EmgAcq.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Public\Documents\Altium\Electronic Design\Tesis Dextra\EmgAcq.PcbDoc
+Cap Semi|Capacitor (Semiconductor SIM Model)|C1, C3, C4, C6, C7, C9, C10, C12|100nF|C1206|Cap Semi|8
+Cap Semi|Capacitor (Semiconductor SIM Model)|C2, C5, C8, C11|10pF|C1206|Cap Semi|4
+Cap Semi|Capacitor (Semiconductor SIM Model)|C13, C38, C39, C40, C41, C42, C49|1uF|C1206|Cap Semi|7
+Cap Semi|Capacitor (Semiconductor SIM Model)|C14, C17, C18, C21|33nF|C1206|Cap Semi|4
+Cap Semi|Capacitor (Semiconductor SIM Model)|C15, C16, C19, C20, C26, C27, C28, C29|22nF|C1206|Cap Semi|8
+Cap Semi|Capacitor (Semiconductor SIM Model)|C22, C23, C24, C25|10nF|C1206|Cap Semi|4
+Cap|Capacitor|C30|100nF|RAD-0.3|Cap|1
+Cap Pol1|Polarized Capacitor (Radial)|C31|220uF|RB7.6-15|Cap Pol1|1
+593D105X0020B2|Tantamount Commercial, Surface Mount Solid Tantalum Chip Capacitor for Switch Mode Power Supplies and Converters: 10uF, 20% Tolerance, 20 WVDC @ +85°C, Surge = 26V|C32, C35|1uF|3528|593D106X0020B2|2
+593D106X0020B2|Tantamount Commercial, Surface Mount Solid Tantalum Chip Capacitor for Switch Mode Power Supplies and Converters: 10uF, 20% Tolerance, 20 WVDC @ +85°C, Surge = 26V|C33, C36|10uF|3528|593D106X0020B2|2
+593D226X0020D2|Tantamount Commercial, Surface Mount Solid Tantalum Chip Capacitor for Switch Mode Power Supplies and Converters: 22uF, 20% Tolerance, 20 WVDC @ +85°C, Surge = 26V|C34, C37|22uF|7343|593D226X0020D2|2
+Cap Semi|Capacitor (Semiconductor SIM Model)|C43, C44, C45, C46, C47, C48|18pF|C1206|Cap Semi|6
+BAS21|Silicon Switching Diode for High-Speed, High-Voltage Switching|D1, D2, D3, D4||SOT-23|BAS21|4
+Diode BAS21|Silicon Switching Diode for High-Speed, High-Voltage Switching|D37, D38, D39, D40, D41, D42, D43, D44||SOT-23_N|Diode BAS21|8
+VIN|Header, 3-Pin|P1, P22, P24||AZUL5-3|Header 3|3
+EMG CH1-2|Header, 8-Pin|P2||AZUL5-8|Header 8|1
+EMG CH3-4|Header, 8-Pin|P3||AZUL5-8|Header 8|1
+SHEADER 2x3|Shrouded Box Header: 2x8-Pin, 0.100" (2.54 mm) Male|P4, P27||SHBH 2x3|SB Header 2x3|2
+INPUT|Header, 6-Pin|P5||AZUL5-6|Header 6|1
+OUTPUT|Header, 7-Pin|P6||AZUL5-7|Header 7|1
+VIN|Header, 2-Pin|P7||AZUL5-2|Header 2|1
+VMDC|Header, 2-Pin|P8||AZUL5-2|Header 2|1
+DCM1|Header, 2-Pin|P9||AZUL5-2|Header 2|1
+DCM2|Header, 2-Pin|P10||AZUL5-2|Header 2|1
+DCM3|Header, 2-Pin|P11||AZUL5-2|Header 2|1
+DCM4|Header, 2-Pin|P12||AZUL5-2|Header 2|1
+VSTP|Header, 2-Pin|P13||AZUL5-2|Header 2|1
+DCM5|Header, 2-Pin|P14||AZUL5-2|Header 2|1
+DCM6|Header, 2-Pin|P15||AZUL5-2|Header 2|1
+DCM7|Header, 2-Pin|P16||AZUL5-2|Header 2|1
+DCM8|Header, 2-Pin|P17||AZUL5-2|Header 2|1
+STPAB|Header, 2-Pin|P18, P19||AZUL5-2|Header 2|2
+SHEADER 2x8|Shrouded Box Header: 2x8-Pin, 0.100" (2.54 mm) Male|P20, P21, P35, P36||SHBH 2X8|SB Header 2x8|4
+FSR INPUT|Header, 8-Pin, Dual row|P23||HDR2X8|Header 8X2|1
+FSR OUT|Header, 9-Pin, Right Angle|P25||HDR1X9H|Header 9H|1
+PB IN|Header, 10-Pin, Dual row|P26||HDR2X10|Header 10X2|1
+ACC SENS|Header, 5-Pin, Right Angle|P28||HDR1X5H|Header 5H|1
+FSR IN|Header, 9-Pin, Right Angle|P29||HDR1X9H|Header 9H|1
+PB IN|Header, 11-Pin, Right Angle|P30||HDR1X11H|Header 11H|1
+ENC IN|Header, 16-Pin, Dual row|P31||HDR2X16_CEN|Header 16X2A|1
+RA PORT|Header, 6-Pin|P32||AZUL5-6|Header 6|1
+RB PORT|Header, 6-Pin|P33||AZUL5-6|Header 6|1
+CCP RD7|Header, 3-Pin|P34||AZUL5-3|Header 3|1
+PB OUT|Header, 11-Pin, Right Angle|P38||HDR1X11H|Header 11H|1
+Res3|Resistor|R1, R4, R16, R18, R32, R33, R46, R47|47|J1-0603|Res3|8
+Res3|Resistor|R2, R7, R13, R19, R25, R31, R36, R41|390K|J1-0603|Res3|8
+Res3|Resistor|R3, R11, R12, R15, R20, R26, R27, R29, R34, R42, R43, R45, R48, R53, R54, R56|2.2K|RESC3225M|Res3|16
+Res3|Resistor|R5, R8, R14, R21, R22, R28, R35, R37, R44, R49, R50, R55|10K|RESC3225M|Res3|12
+Res3|Resistor|R6, R17, R30, R40, R77, R78, R81, R82, R87, R88, R92, R93|10K|J1-0603|Res3|12
+Res3|Resistor|R9, R23, R38, R51|22|RESC3225M|Res3|4
+POT3361||R10, R24, R39, R52||3361P|POT3361|4
+Res3|Resistor|R57, R58, R59, R60, R61, R62, R63, R64|390K|RESC3225M|Res3|8
+Res3|Resistor|R65, R66, R67, R68, R69, R70, R71, R72|20K|RESC3225M|Res3|8
+Res3|Resistor|R73, R75|240|RESC6332M|Res3|2
+POT3361||R74, R76|5K|3361P|POT3361|2
+Res3|Resistor|R79, R80, R83, R84, R85, R86, R89, R90, R91, R97|220|J1-0603|Res3|10
+Res3|Resistor|R94, R95, R96|4.7K|J1-0603|Res3|3
+SW BT SMT|Pushbutton Switches FSM2JSMAASTR=6MM TACT SWITCH,|S7, S8, S9||PBOTTON SMT4|SW PB 6mm|3
+INA128U|Precision, Low-Power Instrumentation Amplifiers|U1, U3, U6, U8||182H_N|INA128U|4
+OPA4131UA|General Purpose FET-Input Operational Amplifiers|U2, U4, U5, U7||211F_N|OPA4131UA|4
+OPA4134||U9, U10||SOIC127P600-14M|OPA4134|2
+TPS71525||U11||SOT353-5L|TPS71525|1
+TLE2426|Precision Virtual Ground|U12||SOP8 - duplicate|TLE2426|1
+LM317BD2T|Three-Terminal Adjustable Output Positive Voltage Regulator|U13, U14||936-03|LM317BD2T|2
+L293DD|Push-Pull Four Channel Driver With Diode|U15, U16, U17, U18||SO20_N|L293DD|4
+TPS71550||U19, U23, U24||SOT353-5L|TPS71550|3
+L293B|Push-Pull Four Channel Drivers|U20||DIP16|L293B|1
+TL084ACD|General-Purpose J-FET Quad Operational Amplifier|U21, U22||SO14_N|TL084ACD|2
+PIC18F4553-I/P|High Performance, Enhanced Flash, USB Microcontroller with 12-Bit A/D and nanoWatt Technology, 32K Flash, 40-Pin PDIP, Industrial Temperature Range|U25, U26, U27||PDIP600-P40|PIC18F4553-I/P|3
+XTAL|Crystal Oscillator|Y2, Y3, Y4||R38|XTAL|3

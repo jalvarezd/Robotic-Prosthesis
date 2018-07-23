@@ -1,0 +1,20 @@
+Remove Pin=P9-1 From Net=OUT11
+Remove Pin=P9-2 From Net=OUT12
+Remove Pin=P9-3 From Net=OUT13
+Remove Pin=P9-4 From Net=OUT14
+Remove Pin=P9-5 From Net=OUT21
+Remove Pin=P9-6 From Net=OUT22
+Remove Pin=P9-7 From Net=OUT23
+Remove Pin=P9-8 From Net=OUT24
+Remove Pin=P10-1 From Net=OUT31
+Remove Pin=P10-2 From Net=OUT32
+Remove Pin=P10-3 From Net=OUT33
+Remove Pin=P10-4 From Net=OUT34
+Remove Pin=P10-5 From Net=OUT41
+Remove Pin=P10-6 From Net=OUT42
+Remove Pin=P10-7 From Net=OUT43
+Remove Pin=P10-8 From Net=OUT44
+Change Component Footprint: Designator=P9 Old Footprint=AZUL5-8 New Footprint=AZUL5-2
+Change Component Footprint: Designator=P10 Old Footprint=AZUL5-8 New Footprint=AZUL5-2
+Change Component Comment: Designator=P9 Old Comment=Motor 1-4 New Comment=DCM1
+Change Component Comment: Designator=P10 Old Comment=Motor 2-8 New Comment=DCM2

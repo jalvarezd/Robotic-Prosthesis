@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=EMG CH1-CH2 NewDesignator=P2
+Change Component Designator: OldDesignator=EMG CH3-CH4 NewDesignator=P3
+Change Component Designator: OldDesignator=EMG OUTPUT NewDesignator=P4
+Change Component Designator: OldDesignator=VIN NewDesignator=P1

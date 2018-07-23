@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=ACC X Pin=P28-2
+Removed Pin From Net: NetName=ACC Y Pin=P28-3
+Removed Pin From Net: NetName=ACC Z Pin=P28-4
+Removed Pin From Net: NetName=PIC11 Pin=U25-8
+Removed Pin From Net: NetName=PIC12 Pin=U25-9
+Removed Pin From Net: NetName=FSR2 Pin=U25-33
+Removed Pin From Net: NetName=FSR3 Pin=U25-34
+Removed Pin From Net: NetName=FSR4 Pin=U25-35
+Removed Pin From Net: NetName=PIC11 Pin=U27-6
+Removed Pin From Net: NetName=PIC12 Pin=U27-7
+Removed Pin From Net: NetName=IN42 Pin=U27-8
+Removed Pin From Net: NetName=EN7CHB Pin=U27-19
+Removed Pin From Net: NetName=IN23 Pin=U27-20
+Removed Pin From Net: NetName=IN24 Pin=U27-21
+Removed Pin From Net: NetName=IN31 Pin=U27-22
+Removed Pin From Net: NetName=EN41 Pin=U27-23
+Removed Pin From Net: NetName=EN6CHA Pin=U27-24
+Removed Pin From Net: NetName=EN6CHB Pin=U27-25
+Removed Pin From Net: NetName=EN7CHA Pin=U27-26
+Removed Pin From Net: NetName=IN32 Pin=U27-27
+Removed Pin From Net: NetName=IN33 Pin=U27-28
+Removed Pin From Net: NetName=IN34 Pin=U27-29
+Removed Pin From Net: NetName=IN41 Pin=U27-30
+Removed Pin From Net: NetName=EN4CHA Pin=U27-37
+Removed Pin From Net: NetName=EN4CHB Pin=U27-38
+Removed Pin From Net: NetName=EN5CHA Pin=U27-39
+Removed Pin From Net: NetName=EN5CHB Pin=U27-40
+Added Pin To Net: NetName=VCC Pin=P28-2
+Added Pin To Net: NetName=ACC X Pin=P28-3
+Added Pin To Net: NetName=ACC Y Pin=P28-4
+Added Pin To Net: NetName=ACC Z Pin=P28-5
+Added Pin To Net: NetName=FSR2 Pin=U25-8
+Added Pin To Net: NetName=FSR3 Pin=U25-9
+Added Pin To Net: NetName=FSR4 Pin=U25-10
+Added Pin To Net: NetName=PIC11 Pin=U25-33
+Added Pin To Net: NetName=PIC12 Pin=U25-34
+Added Pin To Net: NetName=PIC11 Pin=U26-25
+Added Pin To Net: NetName=PIC12 Pin=U26-26
+Added Pin To Net: NetName=EN6CHB Pin=U27-8
+Added Pin To Net: NetName=EN7CHA Pin=U27-9
+Added Pin To Net: NetName=EN7CHB Pin=U27-10
+Added Pin To Net: NetName=IN34 Pin=U27-19
+Added Pin To Net: NetName=IN41 Pin=U27-20
+Added Pin To Net: NetName=IN42 Pin=U27-21
+Added Pin To Net: NetName=EN4CHA Pin=U27-22
+Added Pin To Net: NetName=PIC11 Pin=U27-23
+Added Pin To Net: NetName=PIC12 Pin=U27-24
+Added Pin To Net: NetName=EN41 Pin=U27-25
+Added Pin To Net: NetName=IN33 Pin=U27-26
+Added Pin To Net: NetName=EN4CHB Pin=U27-27
+Added Pin To Net: NetName=EN5CHA Pin=U27-28
+Added Pin To Net: NetName=EN5CHB Pin=U27-29
+Added Pin To Net: NetName=EN6CHA Pin=U27-30
+Added Pin To Net: NetName=IN23 Pin=U27-37
+Added Pin To Net: NetName=IN24 Pin=U27-38
+Added Pin To Net: NetName=IN31 Pin=U27-39
+Added Pin To Net: NetName=IN32 Pin=U27-40
+Added Room: Name=McuPro

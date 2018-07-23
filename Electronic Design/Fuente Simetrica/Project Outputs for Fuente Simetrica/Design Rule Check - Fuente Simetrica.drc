@@ -1,0 +1,55 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Electronic Design\Fuente Simetrica\Fuente Simetrica.PcbDoc
+Date     : 27/03/2013
+Time     : 02:02:48
+
+Processing Rule : Room Fuente Simetrica (Bounding Region = (25.4mm, 25.226mm, 78.232mm, 102.315mm) (InComponentClass('Fuente Simetrica'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=0.254mm) (All),(All)
+   Violation between Pad D1-V+(20.022mm,68.878mm)  Multi-Layer and 
+                     Arc (23.622mm,68.878mm)  Top Overlay
+   Violation between Pad D1-V-(27.222mm,68.878mm)  Multi-Layer and 
+                     Arc (23.622mm,68.878mm)  Top Overlay
+   Violation between Pad D1-AC1(23.622mm,65.278mm)  Multi-Layer and 
+                     Arc (23.622mm,68.878mm)  Top Overlay
+   Violation between Pad D1-AC2(23.622mm,72.478mm)  Multi-Layer and 
+                     Arc (23.622mm,68.878mm)  Top Overlay
+Rule Violations :4
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.7mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:00

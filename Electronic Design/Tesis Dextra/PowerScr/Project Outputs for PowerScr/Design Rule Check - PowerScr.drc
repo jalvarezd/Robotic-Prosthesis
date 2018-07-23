@@ -1,0 +1,90 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Electronic Design\Tesis Dextra\PowerScr\PowerScr.PcbDoc
+Date     : 2/2/2012
+Time     : 05:46:17
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silkscreen Over Component Pads (Clearance=8mil) (All),(All)
+   Violation between Pad C32-1(140.945mil,1075mil)  Top Layer and 
+                     Arc (93.701mil,1134.055mil)  Top Overlay
+   Violation between Pad C35-1(140.943mil,1225mil)  Top Layer and 
+                     Arc (93.701mil,1284.055mil)  Top Overlay
+   Violation between Track (212.403mil,1446.062mil)(212.403mil,2046.456mil)  Top Overlay and 
+                     Pad U13-4(425.001mil,1906.692mil)  Top Layer
+   Violation between Track (637.599mil,1446.062mil)(637.599mil,2046.456mil)  Top Overlay and 
+                     Pad U13-4(425.001mil,1906.692mil)  Top Layer
+   Violation between Track (737.401mil,1446.062mil)(737.401mil,2046.456mil)  Top Overlay and 
+                     Pad U14-4(949.999mil,1906.692mil)  Top Layer
+   Violation between Track (1162.599mil,1446.062mil)(1162.599mil,2046.456mil)  Top Overlay and 
+                     Pad U14-4(949.999mil,1906.692mil)  Top Layer
+Rule Violations :6
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=8mil) (All),(All)
+   Violation between Via (639.795mil,801.496mil) Top Layer to Bottom Layer and 
+                     Pad D2-2(624.999mil,880.906mil)  Multi-Layer
+   Violation between Via (662.299mil,1157.496mil) Top Layer to Bottom Layer and 
+                     Pad U12-2(599.999mil,1175mil)  Top Layer
+   Violation between Via (492.795mil,996.496mil) Top Layer to Bottom Layer and 
+                     Pad C37-2(400.985mil,1025mil)  Bottom Layer
+   Violation between Via (146.795mil,1337.496mil) Top Layer to Bottom Layer and 
+                     Pad C34-1(149.015mil,1250mil)  Bottom Layer
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=15mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=40mil) (Preferred=30mil) (InNet('VGND'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=30mil) (Preferred=30mil) (InNet('VM+'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=40mil) (Preferred=30mil) (InNet('VSTP+'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=40mil) (Preferred=30mil) (InNet('BATSTP+'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=8mil) (Max=30mil) (Preferred=30mil) (InNet('BATMOT+'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : SMD To Corner (Distance=0mil) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : SMD Neck-Down Constraint (Percent=75%) (All)
+   Violation between SMD Neck-Down Constraint Between Pad on TopLayer And Track on TopLayer
+   Violation between SMD Neck-Down Constraint Between Pad on TopLayer And Track on TopLayer
+Rule Violations :2
+
+Processing Rule : Room PowerScr (Bounding Region = (2362.205mil, 1968.504mil, 4237.205mil, 4093.504mil) (InComponentClass('PowerScr'))
+Rule Violations :0
+
+
+Violations Detected : 12
+Time Elapsed        : 00:00:00
