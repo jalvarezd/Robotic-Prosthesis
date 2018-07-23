@@ -1,0 +1,15 @@
+[Version]
+SW990001
+
+[Layers]
+0 = 7, 0
+Pliegues = 3, 7
+Croquis = 4, 3
+
+[Entities]
+Geometría [0] = BYLAYER, BYLAYER, 0
+Cuadro delimitador [31] = 3, BYLAYER, Pliegues
+Líneas de croquis [16] = 4, BYLAYER, Croquis
+
+[Colors]
+
